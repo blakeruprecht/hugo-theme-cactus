@@ -9,6 +9,7 @@ features = ["mathjax", "customizable", "color"]
 min_version = "0.55"
 
 # If the theme has a single author
+# comment
 [author]
     name = "Zeran Wu"
     homepage = "https://github.com/monkeyWzr"
